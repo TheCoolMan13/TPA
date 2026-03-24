@@ -1,0 +1,22 @@
+Stiva
+Forma poloneza 
+2 stive si cand dau de paranteza inchisa dau flush la operatori in stiva cu variabile
+se asuma la tema ca expresia e corecta
+sa verifici exemplu (a * b + c) sa dea ab* c + 
+nu bag / peste * si nici * peste / 
+o(n) complexitate de timp
+-- relativ complicat
+ultima problema de implementat -> un basic function calculator 
+
+
+
+
+Backtracking
+ceva exempulu cu lock ul la bicicleta
+folosim stiva sa fie mai rapid ca sa nu dam brute force
+kinda cum actually te gandeai in clasa a 12a ;)
+-ai cod in curs 
+
+Recursivitate
+-- gluma cu ceva site de iti deschide window uri recursive 
+-- bullshit cu 
